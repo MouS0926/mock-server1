@@ -13,6 +13,13 @@
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
+    },
+        {
+      "id": 3,
+      "name": "Ruby",
+      "age": 9,
+      "place": "Delhi",
+      "gender": "Female"
     }
   ]
 }
